@@ -35,9 +35,9 @@ Cálculo da taxa de variação no ponto médio do domínio:
 ## Estrutura do Repositório
 
 ```text
-├── derivacao.py      # Script com as 3 variações de Diferenças (Progressiva, Regressiva, Central)
-├── trapezio.py       # Script com a Regra dos Trapézios Composta (n = 30)
 ├── simpson.py        # Script com a Regra de Simpson 1/3 Composta (n = 30)
+├── trapezio.py       # Script com a Regra dos Trapézios Composta (n = 30)
+├── derivacao.py      # Script com as 3 variações de Diferenças (Progressiva, Regressiva, Central)
 └── README.md
 
 
