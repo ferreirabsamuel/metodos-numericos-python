@@ -3,7 +3,7 @@ Implementações em Python de métodos de cálculo número: Regra de Simpson 1/3
 
 ---
 
-# Enunciado do Exercício
+## Enunciado do Exercício
 <img width="1270" height="427" alt="Captura de tela 2026-08-20 162002" src="https://github.com/user-attachments/assets/15382b8d-759a-41b2-a5e5-76d2be339d73" />
 
 ---
